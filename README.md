@@ -22,6 +22,7 @@ Real-time tracking of spaceship resources such as food, water, oxygen, and energ
 3. HTML
 4. CSS
 5. Bootstrap 5
+6. SQL
 
 ##### Resources
 1. KenzoCoffer's Grocery Store, COSC 304 Project, Mahi Gangal and Pratham Shah: https://github.com/mahigangal/cosc-304-project
